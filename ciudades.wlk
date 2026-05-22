@@ -28,5 +28,5 @@ object hurlingham{
      vehiculo.puedeFuncionar() and vehiculo.rapido() and vehiculo.patenteValida()
   method recuerdoTipico() = "sticker de la Unahur"
 }
-
+//vvvv
 //nuevocomentario
